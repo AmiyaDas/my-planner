@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+### ToDo
+* make components structure
+* make layout of ui dashboard
+* make a working timer
+    * timer will have titl/description part
+* make a working todo
+* save todo data to api(local for now)
+* make table data(save on timer)
+    * when created, for what time, with what title
+* make charts from table data
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### colors
+* 121212 - full body
+* 181818 - header/boxes
+* 202020 - header/boxes
+* 313131 - 
+* 383838 - buttons
 
 ## Available Scripts
 
